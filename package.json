@@ -1,0 +1,15 @@
+
+{
+  "name": "proyecto-suma",
+  "version": "1.0.0",
+  "description": "Servidor que realiza suma de dos números",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
